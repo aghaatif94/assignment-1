@@ -1,0 +1,30 @@
+figure{
+         
+    width: 360px;
+    height: 520px;
+    border: 1px solid #d1d1d1;
+    
+    
+}
+figcaption{
+    padding: 16px;
+    width: 330px;
+
+    
+}
+.a{
+    color: #b2b2b2;
+
+}
+.b{
+    color: #56c65b;
+}
+h2,p{
+    color: #494949;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+img{
+    width: 360px;
+}
